@@ -1,6 +1,6 @@
 推荐/搜索/广告 精选文章
 ===
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE.md) ![Update](https://img.shields.io/badge/update-weekly-green.svg)  [![SayThanks](https://img.shields.io/badge/say-thanks-ff69f4.svg)](https://saythanks.io/to/kamyu104) ![Travis](https://travis-ci.org/kamyu104/LeetCode-Solutions.svg?branch=master)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE.md) ![Update](https://img.shields.io/badge/update-weekly-green.svg)  [![SayThanks](https://img.shields.io/badge/say-thanks-ff69f4.svg)](https://saythanks.io/to/kamyu104) 
 
 是否每天被各种社交媒体信息狂轰乱，又怕错过干货技术文章？
 
@@ -8,6 +8,7 @@
 
 楼主**定期更新**自己看过的优质文章收录进来，帮你过滤整理**前沿技术干货**，欢迎Star
 
+---
 
 | 标题 | 时间 | 作者 | 来源 |
 |----|----------|-----------|------|
